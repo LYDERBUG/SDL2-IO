@@ -1,0 +1,7 @@
+this file is reserved only for draft code that needs a revision, and the original copy of working 'main function'. Because VS is wierd sometimes lol
+int main(int argc, char* argv[]) {
+	return 0;
+}
+
+Rev-# / MM/DD/YYYY:
+{...}
