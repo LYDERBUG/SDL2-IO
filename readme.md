@@ -5,4 +5,4 @@ If you get `SDL2.dll missing error` after compiling, Place the SDL2.dll on Debug
 
 ![sdl2Dllerror](https://user-images.githubusercontent.com/75107428/209454875-c48ea5ba-2c2c-4b1a-9375-a18eb30ace9d.png)
 
-<sup>Current version: 1.0</sup>
+<sup>Current version: 1.0 (Still being developed)</sup>
